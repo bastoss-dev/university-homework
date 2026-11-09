@@ -1,0 +1,33 @@
+@startuml
+class Tarefa {
++id: string
++title: string
++description: string
++category: string
++priority: string
++status: string
++dueDate: string
++createdAt: string
++updatedAt: string
+}
+class TaskManager {
+-storage: Storage
+-key: string
++list(): Tarefa[]
++get(id): Tarefa
++create(data): Tarefa
++update(id, changes): Tarefa
++remove(id): boolean
++setStatus(id, status): Tarefa
++filter(filters): Tarefa[]
++stats(): object
++exportData(): string
++importData(json): number
+}
+class Storage {
++getItem(key): string
++setItem(key,value): void
+}
+TaskManager --> "0..*" Tarefa : gerencia
+TaskManager ..> Storage : persiste
+@enduml
