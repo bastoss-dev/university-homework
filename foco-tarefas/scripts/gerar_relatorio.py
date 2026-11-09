@@ -65,7 +65,7 @@ def pic(path,caption,mw=W,mh=9*cm):
     p(caption,"cap")
 
 repo="https://github.com/bastoss-dev/university-homework/tree/main/foco-tarefas"
-board="https://github.com/bastoss-dev/university-homework/blob/main/foco-tarefas/docs/planejamento/quadro-online.md"
+board="https://trello.com/b/JDK4XMEM/foco-tarefas-engenharia-de-software"
 issues="https://github.com/bastoss-dev/university-homework/issues?q=is%3Aissue+%22Foco+Tarefas%22"
 story.extend([Spacer(1,2.2*cm)])
 p("UNIMA — CENTRO UNIVERSITÁRIO DE MACEIÓ","center")
@@ -86,7 +86,7 @@ section(1,"Identificação")
 p("<b>Projeto:</b> Foco Tarefas. <b>Disciplina:</b> Engenharia de Software. <b>Instituição:</b> UNIMA — Centro Universitário de Maceió.")
 p("<b>Integrante e responsável:</b> Yuri Fernandes Bastos (único integrante).")
 p("<b>Tipo:</b> aplicação web local, responsiva e executável sem servidor. <b>Prazo de entrega:</b> 13/11/2026.")
-p("<b>Materiais:</b> código-fonte, README, quadro de gestão em GitHub, requisitos, dois diagramas UML, três protótipos, imagens do sistema e testes.")
+p("<b>Materiais:</b> código-fonte, README, quadro de gestão em Trello e GitHub, requisitos, dois diagramas UML, três protótipos, imagens do sistema e testes.")
 
 section(2,"Introdução")
 sub("Problema")
@@ -107,8 +107,8 @@ table(["Incremento","Atividades e entregas"],[
 ["4 - Validação","Testes de lógica e interface, capturas, README e relatório."]
 ],[W*.27,W*.73])
 sub("Ferramenta de acompanhamento")
-p("O acompanhamento do projeto está registrado no <b>GitHub Issues</b>, com 13 itens numerados e atribuídos ao integrante Yuri Fernandes Bastos. O quadro Markdown publicado no repositório os distribui nas colunas <b>A fazer, Em andamento, Em testes e Concluído</b>, com links para as issues. O histórico de cada issue permite identificar estados e responsabilidades.")
-p("<b>Quadro publicado:</b> <link href='"+board+"'>ver quadro de acompanhamento</link>. <b>Issues:</b> <link href='"+issues+"'>ver atividades e histórico</link>.")
+p("O acompanhamento do projeto está registrado em um <b>quadro real no Trello</b>, com 13 cartões e as colunas <b>A fazer, Em andamento, Em testes e Concluído</b>. Há 12 tarefas preparatórias concluídas e uma tarefa de conferência e entrega no Canvas pendente. Yuri Fernandes Bastos é o responsável indicado nos cartões. Os mesmos 13 itens estão vinculados ao <b>GitHub Issues</b>, com histórico e links para os artefatos.")
+p("<b>Quadro publicado:</b> <link href='"+board+"'>abrir o quadro Trello</link>. <b>Issues:</b> <link href='"+issues+"'>ver atividades e histórico</link>.")
 if (BASE/"docs/capturas/06-quadro-github-online.png").exists():
     pic("docs/capturas/06-quadro-github-online.png","Figura 1 — Captura do quadro online publicado no GitHub com as atividades da equipe.",mh=8.1*cm)
 else:
