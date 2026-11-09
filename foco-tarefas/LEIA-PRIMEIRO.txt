@@ -1,0 +1,12 @@
+FOCO TAREFAS — PROJETO FINAL
+Único integrante: Yuri Fernandes Bastos
+Prazo final do Canvas: 13/11/2026
+
+1. Abra index.html no navegador (funciona sem instalação).
+2. Veja README.md para documentação, requisitos, capturas e testes.
+3. Abra docs/relatorio-final.pdf (relatório técnico).
+4. Confira docs/planejamento/quadro-online.md (quatro colunas) e a aba Issues do GitHub.
+5. Você é responsável por conferir funcionamento no seu computador e enviar pelo Canvas.
+
+Repositório: https://github.com/bastoss-dev/university-homework/tree/main/foco-tarefas
+Quadro: https://github.com/bastoss-dev/university-homework/blob/main/foco-tarefas/docs/planejamento/quadro-online.md
