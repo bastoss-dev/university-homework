@@ -2,61 +2,61 @@ TAP version 13
 # Subtest: CT01 - Cadastrar tarefa
 ok 1 - CT01 - Cadastrar tarefa
   ---
-  duration_ms: 1.525266
+  duration_ms: 1.350796
   type: 'test'
   ...
 # Subtest: CT02 - Buscar por texto e filtrar
 ok 2 - CT02 - Buscar por texto e filtrar
   ---
-  duration_ms: 18.746318
+  duration_ms: 10.703644
   type: 'test'
   ...
 # Subtest: CT03 - Editar uma tarefa
 ok 3 - CT03 - Editar uma tarefa
   ---
-  duration_ms: 0.316299
+  duration_ms: 0.32163
   type: 'test'
   ...
 # Subtest: CT04 - Alterar status e estatísticas
 ok 4 - CT04 - Alterar status e estatísticas
   ---
-  duration_ms: 0.261739
+  duration_ms: 0.241301
   type: 'test'
   ...
 # Subtest: CT05 - Excluir tarefa
 ok 5 - CT05 - Excluir tarefa
   ---
-  duration_ms: 1.068458
+  duration_ms: 0.893693
   type: 'test'
   ...
 # Subtest: CT06 - Impedir cadastro sem título
 ok 6 - CT06 - Impedir cadastro sem título
   ---
-  duration_ms: 0.241248
+  duration_ms: 0.204315
   type: 'test'
   ...
 # Subtest: CT07 - Exportar e importar JSON
 ok 7 - CT07 - Exportar e importar JSON
   ---
-  duration_ms: 0.271833
+  duration_ms: 0.20768
   type: 'test'
   ...
 # Subtest: CT08 - Rejeitar backup inválido
 ok 8 - CT08 - Rejeitar backup inválido
   ---
-  duration_ms: 0.268048
+  duration_ms: 0.213439
   type: 'test'
   ...
 # Subtest: CT09 - Rejeitar enumeração inválida
 ok 9 - CT09 - Rejeitar enumeração inválida
   ---
-  duration_ms: 0.294868
+  duration_ms: 0.28167
   type: 'test'
   ...
 # Subtest: CT10 - Compartilhar persistência entre instâncias
 ok 10 - CT10 - Compartilhar persistência entre instâncias
   ---
-  duration_ms: 0.334798
+  duration_ms: 0.27462
   type: 'test'
   ...
 1..10
@@ -67,4 +67,4 @@ ok 10 - CT10 - Compartilhar persistência entre instâncias
 # cancelled 0
 # skipped 0
 # todo 0
-# duration_ms 79.421799
+# duration_ms 59.097278
