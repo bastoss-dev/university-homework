@@ -6,7 +6,7 @@
 
 **Integrante único:** Yuri Fernandes Bastos  
 **Prazo acadêmico:** 13 de novembro de 2026  
-**Gerenciamento:** [quadro com 4 colunas](docs/planejamento/quadro-online.md) e [GitHub Issues](https://github.com/bastoss-dev/university-homework/issues?q=is%3Aissue+%22Foco+Tarefas%22)  
+**Gerenciamento:** [Trello — quadro com 4 colunas](https://trello.com/b/JDK4XMEM/foco-tarefas-engenharia-de-software) e [GitHub Issues](https://github.com/bastoss-dev/university-homework/issues?q=is%3Aissue+%22Foco+Tarefas%22)  
 **Relatório técnico:** [PDF completo com as dez seções exigidas](docs/relatorio-final.pdf)
 
 ## Problema, objetivo e público-alvo
@@ -108,16 +108,16 @@ As capturas de aplicação foram produzidas pelo próprio programa com tarefas f
 
 Adotou-se o **modelo incremental**, com quatro incrementos: levantamento e planejamento; UML/protótipos; implementação; testes/documentação.
 
-O gerenciamento usa **GitHub Issues** com 13 tarefas atribuídas ao integrante e um [quadro visual em Markdown com as colunas A fazer / Em andamento / Em testes / Concluído](docs/planejamento/quadro-online.md). Existem 12 atividades de preparação concluídas; resta a conferência final e o envio no Canvas.
+O gerenciamento usa **Trello** com 13 cartões distribuídos em quatro listas (A fazer, Em andamento, Em testes e Concluído), associado a **GitHub Issues** como histórico de apoio. Os cartões identificam Yuri Fernandes Bastos como responsável e apontam para os artefatos do projeto. Existem 12 atividades de preparação concluídas; resta a conferência final e o envio no Canvas.
 
 ![Quadro de acompanhamento HTML vinculado ao GitHub Issues](docs/capturas/04-quadro-kanban.png)
 
-O quadro HTML é uma visualização de acompanhamento e o histórico real está nas issues; **não é um quadro Trello nem a interface nativa do GitHub Projects**.
+O quadro HTML preserva o planejamento inicial; o **quadro Trello real** foi criado em 09/11/2026 e contém os cartões de acompanhamento.
 
 ## Relatório final e entrega
 
 - **[Abrir relatório técnico PDF](docs/relatorio-final.pdf)**
-- **[Abrir o quadro online](docs/planejamento/quadro-online.md)**
+- **[Abrir o quadro real no Trello](https://trello.com/b/JDK4XMEM/foco-tarefas-engenharia-de-software)**
 - **[Ver atividades e responsáveis](https://github.com/bastoss-dev/university-homework/issues?q=is%3Aissue+%22Foco+Tarefas%22)**
 
 O PDF apresenta identificação, introdução, planejamento, requisitos, UML, protótipos, desenvolvimento, testes, considerações finais e links.
@@ -125,3 +125,8 @@ O PDF apresenta identificação, introdução, planejamento, requisitos, UML, pr
 **Etapa a cargo do aluno:** revisar os arquivos e o software no próprio computador, corrigir o que encontrar e enviar o PDF e os links pelo Canvas até 13/11/2026.
 
 **Nota de transparência:** o código, os testes e a documentação foram preparados com assistência automatizada; a responsabilidade pelo conteúdo, pela conferência final e pela entrega é do integrante Yuri Fernandes Bastos.
+
+
+**Quadro de acompanhamento real (Trello):** https://trello.com/b/JDK4XMEM/foco-tarefas-engenharia-de-software
+
+O quadro foi criado como privado; para a avaliação, compartilhar com o professor ou ajustar a visibilidade antes da entrega.
