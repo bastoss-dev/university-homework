@@ -1,30 +1,28 @@
-# Quadro de gestão — Foco Tarefas
+# Foco Tarefas — Quadro de gerenciamento no GitHub
 
-**Ferramenta:** GitHub Issues + quadro de acompanhamento no próprio repositório.  
-**Responsável por todas as atividades:** Yuri Fernandes Bastos (`@bastoss-dev`).  
-**Data do registro:** 09/11/2026. **Prazo de entrega:** 13/11/2026.
-
-O quadro abaixo acompanha as [13 atividades com histórico, estados e responsável no GitHub Issues](https://github.com/bastoss-dev/university-homework/issues?q=is%3Aissue+%22Foco+Tarefas%22). Os itens fechados foram preparados; a revisão acadêmica e a entrega continuam sob responsabilidade do aluno.
+**Ferramenta utilizada:** GitHub Issues (registros individuais, responsáveis, histórico de mudanças) + quadro Markdown neste repositório.  
+**Responsável:** Yuri Fernandes Bastos, único integrante.  
+**Prazo:** 13/11/2026.  
 
 | A fazer | Em andamento | Em testes | Concluído |
 |:---|:---|:---|:---|
-| [P13 — Revisão e entrega Canvas](https://github.com/bastoss-dev/university-homework/issues/13)<br/>Yuri F. Bastos | [P12 — Quadro e evidências finais](https://github.com/bastoss-dev/university-homework/issues/12)<br/>Yuri F. Bastos |—| [P01 — Definição do problema e escopo](https://github.com/bastoss-dev/university-homework/issues/1)<br/>Yuri F. Bastos |
-|—|—|—| [P02 — Requisitos RF/RNF](https://github.com/bastoss-dev/university-homework/issues/2)<br/>Yuri F. Bastos |
-|—|—|—| [P03 — Diagramas UML](https://github.com/bastoss-dev/university-homework/issues/3)<br/>Yuri F. Bastos |
-|—|—|—| [P04 — Protótipos de 3 telas](https://github.com/bastoss-dev/university-homework/issues/4)<br/>Yuri F. Bastos |
-|—|—|—| [P05 — Cadastro e listagem](https://github.com/bastoss-dev/university-homework/issues/5)<br/>Yuri F. Bastos |
-|—|—|—| [P06 — Edição, exclusão e filtros](https://github.com/bastoss-dev/university-homework/issues/6)<br/>Yuri F. Bastos |
-|—|—|—| [P07 — Indicadores e persistência](https://github.com/bastoss-dev/university-homework/issues/7)<br/>Yuri F. Bastos |
-|—|—|—| [P08 — Testes automatizados](https://github.com/bastoss-dev/university-homework/issues/8)<br/>Yuri F. Bastos |
-|—|—|—| [P09 — README e relatório técnico](https://github.com/bastoss-dev/university-homework/issues/9)<br/>Yuri F. Bastos |
-|—|—|—| [P10 — Identificação do integrante](https://github.com/bastoss-dev/university-homework/issues/10)<br/>Yuri F. Bastos |
-|—|—|—| [P11 — Publicação do GitHub](https://github.com/bastoss-dev/university-homework/issues/11)<br/>Yuri F. Bastos |
+|[P13 — Conferência e envio Canvas](https://github.com/bastoss-dev/university-homework/issues/13)<br/>**Yuri Fernandes Bastos**|—|—|[P01 — Problema e escopo](https://github.com/bastoss-dev/university-homework/issues/1)<br/>**Yuri Fernandes Bastos**|
+|—|—|—|[P02 — Documentação de requisitos](https://github.com/bastoss-dev/university-homework/issues/2)<br/>**Yuri Fernandes Bastos**|
+|—|—|—|[P03 — Diagramas UML](https://github.com/bastoss-dev/university-homework/issues/3)<br/>**Yuri Fernandes Bastos**|
+|—|—|—|[P04 — Protótipos de 3 telas](https://github.com/bastoss-dev/university-homework/issues/4)<br/>**Yuri Fernandes Bastos**|
+|—|—|—|[P05 — Cadastro e listagem](https://github.com/bastoss-dev/university-homework/issues/5)<br/>**Yuri Fernandes Bastos**|
+|—|—|—|[P06 — Edição, exclusão e filtros](https://github.com/bastoss-dev/university-homework/issues/6)<br/>**Yuri Fernandes Bastos**|
+|—|—|—|[P07 — Indicadores e persistência](https://github.com/bastoss-dev/university-homework/issues/7)<br/>**Yuri Fernandes Bastos**|
+|—|—|—|[P08 — Testes automatizados](https://github.com/bastoss-dev/university-homework/issues/8)<br/>**Yuri Fernandes Bastos**|
+|—|—|—|[P09 — README e relatório PDF](https://github.com/bastoss-dev/university-homework/issues/9)<br/>**Yuri Fernandes Bastos**|
+|—|—|—|[P10 — Identificação acadêmica](https://github.com/bastoss-dev/university-homework/issues/10)<br/>**Yuri Fernandes Bastos**|
+|—|—|—|[P11 — Publicação do GitHub](https://github.com/bastoss-dev/university-homework/issues/11)<br/>**Yuri Fernandes Bastos**|
+|—|—|—|[P12 — Quadro e acompanhamento online](https://github.com/bastoss-dev/university-homework/issues/12)<br/>**Yuri Fernandes Bastos**|
 
-## Como o acompanhamento foi realizado
+**Como registrar o acompanhamento:** as atividades P01–P12 estão concluídas e fechadas no GitHub Issues; a tarefa P13 permanece aberta e será finalizada após a conferência e envio no Canvas. Cada cartão contém link para a issue correspondente e está atribuído ao integrante. A coluna Em andamento ou Em testes pode ser utilizada se algum item exigir correção, reabrindo a respectiva issue.
 
-1. Cada etapa possui uma issue numerada, com responsável, objetivo e link de evidência.
-2. As 11 atividades preparadas estão fechadas; as etapas externas permanecem abertas.
-3. Ao iniciar novos testes, o item pode passar à coluna `Em testes`. Ao concluir uma etapa, registrar resultados e fechar a issue.
-4. Essa organização é um **quadro Markdown de acompanhamento vinculado ao GitHub Issues**, não um quadro Trello ou GitHub Projects. O histórico e os responsáveis estão nas próprias issues.
+- [Acompanhamento das 13 issues no GitHub](https://github.com/bastoss-dev/university-homework/issues?q=is%3Aissue+%22Foco+Tarefas%22)
+- [Quadro HTML para navegação e captura](quadro-kanban.html)
+- [Planejamento em CSV](tarefas.csv)
 
-**Observação:** imagens e capturas do quadro são evidências de planejamento; não substituem a revisão pessoal do software nem a submissão no Canvas.
+**Nota de transparência:** este quadro é um arquivo Markdown no GitHub ligado à ferramenta GitHub Issues. Não se trata de Trello nem da interface nativa do GitHub Projects; o sistema e os artefatos foram preparados com assistência automatizada e revisados sob a responsabilidade do integrante.
