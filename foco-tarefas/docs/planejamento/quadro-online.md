@@ -1,3 +1,15 @@
+# Quadro Trello real
+
+**[Abrir o quadro no Trello](https://trello.com/b/JDK4XMEM/foco-tarefas-engenharia-de-software)**
+
+Projeto final Foco Tarefas — Engenharia de Software. Responsável: Yuri Fernandes Bastos. Foram criadas as listas A fazer, Em andamento, Em testes e Concluído, com 13 cartões (12 concluídos e 1 pendente de conferência/entrega pelo Canvas).
+
+> O quadro Trello foi criado como privado. O professor precisará receber acesso ou o quadro deverá ter a visibilidade ajustada antes da avaliação.
+
+---
+
+## Registro histórico em Markdown
+
 # Foco Tarefas — Quadro de gerenciamento no GitHub
 
 **Ferramenta utilizada:** GitHub Issues (registros individuais, responsáveis, histórico de mudanças) + quadro Markdown neste repositório.  
