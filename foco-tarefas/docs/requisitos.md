@@ -3,7 +3,7 @@
 
 **Objetivo:** permitir ao usuário cadastrar, consultar e acompanhar suas tarefas.
 
-**Stakeholders:** usuário final, equipe de desenvolvimento e professor avaliador.
+**Stakeholders:** usuário final, responsável pelo desenvolvimento (Yuri Fernandes Bastos) e professor avaliador.
 
 **Técnica de levantamento:** observação estruturada de cenários simulados. Não houve entrevistas com usuários reais.
 
