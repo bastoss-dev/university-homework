@@ -90,6 +90,17 @@ with sync_playwright() as p:
     board.goto(address+"/docs/planejamento/quadro-kanban.html")
     board.screenshot(path=str(CAP/"04-quadro-kanban.png"),full_page=True)
     board.close()
+    # Evidencia complementar: screenshot do quadro Markdown PUBLICADO no GitHub.
+    remote=context.new_page()
+    try:
+        remote.goto("https://github.com/bastoss-dev/university-homework/blob/main/foco-tarefas/docs/planejamento/quadro-online.md",wait_until="domcontentloaded",timeout=45000)
+        remote.locator(".markdown-body").first.wait_for(timeout=15000)
+        remote.locator(".markdown-body").first.screenshot(path=str(CAP/"06-quadro-github-online.png"))
+        print("Quadro GitHub online capturado em 06-quadro-github-online.png")
+    except Exception as exc:
+        print("A captura remota do quadro GitHub nao foi possivel: "+str(exc))
+    finally:
+        remote.close()
     mcontext=browser.new_context(viewport={"width":390,"height":844})
     mobile=mcontext.new_page()
     mobile.goto(address+"/index.html")

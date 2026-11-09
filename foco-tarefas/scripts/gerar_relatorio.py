@@ -109,7 +109,10 @@ table(["Incremento","Atividades e entregas"],[
 sub("Ferramenta de acompanhamento")
 p("O acompanhamento do projeto está registrado no <b>GitHub Issues</b>, com 13 itens numerados e atribuídos ao integrante Yuri Fernandes Bastos. O quadro Markdown publicado no repositório os distribui nas colunas <b>A fazer, Em andamento, Em testes e Concluído</b>, com links para as issues. O histórico de cada issue permite identificar estados e responsabilidades.")
 p("<b>Quadro publicado:</b> <link href='"+board+"'>ver quadro de acompanhamento</link>. <b>Issues:</b> <link href='"+issues+"'>ver atividades e histórico</link>.")
-pic("docs/capturas/04-quadro-kanban.png","Figura 1 — Visualização HTML do acompanhamento registrado em GitHub Issues; não é um quadro Trello.",mh=8.1*cm)
+if (BASE/"docs/capturas/06-quadro-github-online.png").exists():
+    pic("docs/capturas/06-quadro-github-online.png","Figura 1 — Captura do quadro online publicado no GitHub com as atividades da equipe.",mh=8.1*cm)
+else:
+    pic("docs/capturas/04-quadro-kanban.png","Figura 1 — Visualização HTML do quadro de GitHub Issues; não é um quadro Trello.",mh=8.1*cm)
 
 section(4,"Engenharia de requisitos")
 sub("Técnica de identificação de necessidades")
