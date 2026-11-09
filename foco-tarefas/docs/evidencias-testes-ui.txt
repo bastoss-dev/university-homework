@@ -1,0 +1,17 @@
+VALIDAÇÃO FUNCIONAL NO CHROMIUM COM NAVEGADOR REAL E LOCALSTORAGE REAL
+Execução automatizada em GitHub Actions (a data é a data da execução do workflow).
+
+UI01 - Painel apresenta 5 tarefas e indicadores: APROVADO
+UI02 - Lista apresenta 5 tarefas: APROVADO
+UI03 - Pesquisa filtra por texto: APROVADO
+UI04 - Filtro de status funciona: APROVADO
+UI05 - Cadastro de tarefa funciona: APROVADO
+UI06 - Persistência REAL em localStorage após recarga: APROVADO
+UI07 - Edição funciona: APROVADO
+UI08 - Mudança de status funciona: APROVADO
+UI09 - Exclusão funciona: APROVADO
+UI10 - Download de backup JSON funciona: APROVADO
+UI11 - Nenhum erro de JavaScript: APROVADO
+UI12 - Layout de 390px sem rolagem horizontal: APROVADO
+
+Resultado: 12 verificações aprovadas, dados de exemplo fictícios.
