@@ -1,14 +1,14 @@
 ID,Tarefa,Responsavel,Coluna,Artefato
-P01,Definir problema e escopo,Equipe - identificar integrantes,Concluído,docs/requisitos.md
-P02,Documentar requisitos RF e RNF,Equipe - identificar integrantes,Concluído,docs/requisitos.md
-P03,Elaborar diagramas UML,Equipe - identificar integrantes,Concluído,docs/uml/
-P04,Desenhar protótipos de três telas,Equipe - identificar integrantes,Concluído,Pacote ZIP original
-P05,Implementar cadastro e listagem,Equipe - identificar integrantes,Concluído,index.html
-P06,Implementar edição exclusão e filtros,Equipe - identificar integrantes,Concluído,index.html
-P07,Implementar indicadores e persistência,Equipe - identificar integrantes,Concluído,index.html
-P08,Executar testes automatizados,Equipe - identificar integrantes,Concluído,Pacote ZIP original
-P09,Preparar README e relatório técnico,Equipe - identificar integrantes,Concluído,README.md
-P10,Conferir identificação da equipe,Definir responsável,A fazer,README.md
-P11,Revisar repositório no GitHub,Definir responsável,Em andamento,GitHub
-P12,Criar quadro e registrar responsáveis,Definir responsável,A fazer,Trello
-P13,Entregar no Canvas até 13/11/2026,Definir responsável,A fazer,Canvas
+"P01","Definir problema e escopo","Yuri Fernandes Bastos","Concluído","docs/requisitos.md"
+"P02","Documentar requisitos RF e RNF","Yuri Fernandes Bastos","Concluído","docs/requisitos.md"
+"P03","Elaborar diagramas UML","Yuri Fernandes Bastos","Concluído","docs/uml/"
+"P04","Desenhar protótipos de três telas","Yuri Fernandes Bastos","Concluído","docs/prototipos/"
+"P05","Implementar cadastro e listagem","Yuri Fernandes Bastos","Concluído","index.html"
+"P06","Implementar edição, exclusão e filtros","Yuri Fernandes Bastos","Concluído","index.html"
+"P07","Implementar indicadores e persistência","Yuri Fernandes Bastos","Concluído","index.html"
+"P08","Executar testes automatizados","Yuri Fernandes Bastos","Concluído","docs/testes.md"
+"P09","Preparar README e relatório técnico","Yuri Fernandes Bastos","Concluído","README.md (PDF no pacote local)"
+"P10","Conferir identificação da equipe","Yuri Fernandes Bastos","Concluído","README.md"
+"P11","Publicar repositório no GitHub","Yuri Fernandes Bastos","Concluído","https://github.com/bastoss-dev/university-homework/tree/main/foco-tarefas"
+"P12","Criar quadro Trello ou GitHub Projects","Yuri Fernandes Bastos","A fazer","Acompanhamento inicial em GitHub Issues"
+"P13","Entregar no Canvas em 13/11/2026","Yuri Fernandes Bastos","A fazer","Canvas"
