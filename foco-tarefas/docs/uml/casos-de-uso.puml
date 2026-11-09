@@ -1,0 +1,22 @@
+@startuml
+left to right direction
+actor "Usuário" as U
+rectangle "Foco Tarefas" {
+usecase "Cadastrar tarefa" as A
+usecase "Consultar tarefas" as B
+usecase "Editar tarefa" as C
+usecase "Excluir tarefa" as D
+usecase "Alterar status" as E
+usecase "Filtrar tarefas" as F
+usecase "Ver indicadores" as G
+usecase "Importar/exportar JSON" as H
+}
+U -- A
+U -- B
+U -- C
+U -- D
+U -- E
+U -- F
+U -- G
+U -- H
+@enduml
