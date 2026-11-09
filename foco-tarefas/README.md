@@ -25,8 +25,8 @@ O sistema concentra tarefas acadêmicas, profissionais e pessoais para que o usu
 ## Engenharia de Software
 
 - [Requisitos funcionais e não funcionais](docs/requisitos.md).
-- [UML — casos de uso (PlantUML)](docs/uml/casos-de-uso.puml).
-- [UML — classes (PlantUML)](docs/uml/classes.puml).
+- [UML — casos de uso (SVG)](docs/uml/casos-de-uso.svg) · [fonte editável](docs/uml/casos-de-uso.puml).
+- [UML — classes (SVG)](docs/uml/classes.svg) · [fonte editável](docs/uml/classes.puml).
 - Três protótipos de baixa fidelidade:
   - [Tela 1 — painel](docs/prototipos/01-painel.svg)
   - [Tela 2 — lista](docs/prototipos/02-lista.svg)
