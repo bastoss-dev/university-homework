@@ -3,8 +3,11 @@ name: Foco Tarefas - PDF, capturas e testes
 on:
   push:
     paths:
-      - 'foco-tarefas/**'
-      - '.github/workflows/foco-tarefas-assets.yml'
+      - 'foco-tarefas/scripts/**'
+      - 'foco-tarefas/tests/**'
+      - 'foco-tarefas/index.html'
+      - 'foco-tarefas/js/**'
+      - 'foco-tarefas/css/**'
   workflow_dispatch:
 
 permissions:
