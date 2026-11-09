@@ -40,13 +40,13 @@ O sistema concentra tarefas acadêmicas, profissionais e pessoais para que o usu
 
 ## Planejamento e testes
 
-Foi adotada uma abordagem incremental, passando por planejamento, requisitos, modelagem, prototipação, desenvolvimento e validação. Os itens estão registrados no GitHub Issues, identificados pelo nome **Foco Tarefas**, com estados em seus títulos. Os responsáveis reais devem ser definidos pelos integrantes; as atividades preparadas por assistência automatizada não devem ser atribuídas indevidamente a estudantes.
+Foi adotada uma abordagem incremental, passando por planejamento, requisitos, modelagem, prototipação, desenvolvimento e validação. Os itens estão registrados no GitHub Issues, identificados pelo nome **Foco Tarefas**, com estados em seus títulos. Os itens de acompanhamento foram atribuídos a **Yuri Fernandes Bastos** (`@bastoss-dev`), único integrante. O código e os documentos foram preparados com assistência automatizada; a conferência e entrega acadêmica são de responsabilidade do integrante.
 
 Durante a preparação do pacote completo foram reportados **10 testes automatizados de lógica** e **12 verificações de interface** aprovados; os scripts e registros encontram-se no pacote completo. Teste a versão baixada manualmente no seu navegador antes da entrega.
 
-## Integrantes
+## Integrante
 
-**[PREENCHER NOMES REAIS DOS INTEGRANTES]**
+**Yuri Fernandes Bastos** — único integrante e responsável pela revisão e entrega acadêmica.
 
 ## Entrega
 
@@ -55,7 +55,7 @@ Durante a preparação do pacote completo foram reportados **10 testes automatiz
 - **Prazo:** 13/11/2026.
 - **Relatório PDF:** disponível no pacote completo disponibilizado ao aluno, ainda não publicado neste repositório.
 - **GitHub:** https://github.com/bastoss-dev/university-homework/tree/main/foco-tarefas
-- **Quadro externo:** o Trello ainda depende de conexão; a [aba Issues](https://github.com/bastoss-dev/university-homework/issues) possui o acompanhamento inicial, mas não substitui automaticamente um quadro Trello/GitHub Projects configurado e documentado.
+- **Acompanhamento:** as tarefas estão registradas e atribuídas em [GitHub Issues](https://github.com/bastoss-dev/university-homework/issues). Não há ainda um quadro visual público no Trello/GitHub Projects. O GitHub Issues possui as 13 tarefas, incluindo duas pendentes de ação externa.
 - **Entrega Canvas:** deve ser feita pelo aluno ou representante da equipe.
 
 ## Limitações
