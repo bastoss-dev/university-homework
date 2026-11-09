@@ -1,0 +1,12 @@
+{
+  "instituicao": "UNIMA - Centro Universitário de Maceió",
+  "disciplina": "Engenharia de Software",
+  "projeto": "Foco Tarefas",
+  "integrantes": [
+    "Yuri Fernandes Bastos"
+  ],
+  "repositorio_github": "https://github.com/bastoss-dev/university-homework/tree/main/foco-tarefas",
+  "quadro_online": "https://github.com/bastoss-dev/university-homework/blob/main/foco-tarefas/docs/planejamento/quadro-online.md",
+  "issues": "https://github.com/bastoss-dev/university-homework/issues?q=is%3Aissue+%22Foco+Tarefas%22",
+  "prazo": "13/11/2026"
+}
